@@ -1,5 +1,10 @@
 package livewall.basic.view_bind_data_bind_rv;
 
+/**
+ * Created by Shruti Koshiya on 09/08/2022
+ */
+
+
 import android.os.Bundle;
 import android.view.View;
 
@@ -10,6 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import livewall.basic.view_bind_data_bind_rv.databinding.ActivityMainBinding;
+
 
 public class MainActivity extends AppCompatActivity implements RecyclerViewItemClick {
 

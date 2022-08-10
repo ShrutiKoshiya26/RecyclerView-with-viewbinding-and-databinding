@@ -1,5 +1,8 @@
 package livewall.basic.view_bind_data_bind_rv;
 
+/**
+ * Created by Shruti Koshiya on 09/08/2022
+ */
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -13,6 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import livewall.basic.view_bind_data_bind_rv.databinding.RowlayoutSingleItemBinding;
+
 
 
 public class MainAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {

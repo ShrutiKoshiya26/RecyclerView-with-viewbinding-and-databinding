@@ -8,6 +8,7 @@
         <variable
             name="visionmodel"
             type="livewall.basic.view_bind_data_bind_rv.VisionModel" />
+
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

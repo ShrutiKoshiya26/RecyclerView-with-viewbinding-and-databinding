@@ -1,7 +1,10 @@
 package livewall.basic.view_bind_data_bind_rv;
 
-import java.io.Serializable;
+/**
+ * Created by Shruti Koshiya on 09/08/2022
+ */
 
+import java.io.Serializable;
 
 public class VisionModel implements Serializable {
 
